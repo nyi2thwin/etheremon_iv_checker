@@ -4,7 +4,7 @@ const app = express();
 var sleep = require('system-sleep');
 
 
-var mainnet_node = "https://mainnet.infura.io/<your_influra_key>";
+var mainnet_node = "https://mainnet.infura.io/<your_infura_key>";
 
 
 //using the web3 umbrella package
