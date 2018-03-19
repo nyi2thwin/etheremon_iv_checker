@@ -1,0 +1,21 @@
+{
+  "name": "Etheremon IV Checker",
+  "version": "1.0.0",
+  "description": "Use web3.js to read ethereum contract and calculate hidden IV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uselezzz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uselezzz/etheremon_iv_checker/"
+  },
+  "keywords": [
+    "NA"
+  ],
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
